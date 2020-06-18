@@ -1,0 +1,2 @@
+[1026/104314.177:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[1026/104314.312:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: L’opération a réussi. (0x0)
